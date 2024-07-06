@@ -1,3 +1,4 @@
+pub mod avl_tree;
 pub mod bellman_ford;
 pub mod bellman_ford_queue;
 pub mod binary_search_tree;
