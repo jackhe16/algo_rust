@@ -20,3 +20,4 @@ pub mod kruskal;
 pub mod linear_sieve;
 pub mod min_cut;
 pub mod prim;
+pub mod rb_tree;
