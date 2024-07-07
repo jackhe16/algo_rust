@@ -13,6 +13,7 @@ pub mod floodfill;
 pub mod floyd;
 pub mod floyd_negative_cycle;
 pub mod ford_fulkerson;
+pub mod heap;
 pub mod hierholzer;
 pub mod hierholzer_bidirectional;
 pub mod infix_to_postfix;
