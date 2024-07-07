@@ -25,3 +25,5 @@ pub mod prim;
 pub mod rb_tree;
 pub mod segment_tree;
 pub mod segment_tree_perfect;
+pub mod trie;
+pub mod trie_vec;
